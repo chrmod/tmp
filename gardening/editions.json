@@ -1,27 +1,26 @@
-
 {
   "data": [{
+    "type": "editions",
+    "id": "20200717",
+    "attributes": {
+      "title": "Tipps für den schönsten Rasen im Juli; Himbeerenkunde auf die Ohren; Tomatensugo einkochen ",
+      "description": "",
+      "new": true
+    }
+  }, {
     "type": "editions",
     "id": "20200710",
     "attributes": {
       "title": "Blüten, Blüten und noch mehr Blüten",
       "description": "Das Garten Fräulein bindet heute für euch Blumenkränze und die Ladies vom Gartenschnack erzählen uns warum Gärtnern uns alle so glücklich macht. Mit Sicherheit hat keiner den Trend des Jahres verpasst: Staycation - daheim Urlaub machen. Garteninspektorin Daniela spielt Reiseleitering durch die Souks ihrer Gegend. Falls ihr dieses Wochenende durch die deutsche Wildnis wandern geht, sorgen die Grünstadtmenschen für Bildung zu essbaren Wildpflanzen direkt auf die Ohren. Und zum Schluss noch einmal tieeeeef einatmen! Juli und August sind die Lavendelmonate schlechthin, daher gibts eine Ernteanleitung uuuund ein Lavendel-Aprikosen-Tarte Rezept zum Nachbacken und zur sinmnliche Teleportation in die Provence. À bientôt mes chers amis!",
-      "new": true
+      "new": false
     }
   }, {
     "type": "editions",
     "id": "20200707",
     "attributes": {
-      "title": "The Blueberry Issue",
-      "description": "a look at the Wild Wild West of Blueberries",
-      "new": false
-    }
-  }, {
-    "type": "editions",
-    "id": "20200706",
-    "attributes": {
-      "title": "The Wild Strawberry Issue",
-      "description": "a look at the Wild Wild West of Strawberries",
+      "title": "Staycation auf dem Balkon; Was im Juli noch im Garten klappt; Johannisbeer-Kuchen in zwei Varianten",
+      "description": "",
       "new": false
     }
   }]
