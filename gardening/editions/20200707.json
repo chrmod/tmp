@@ -1,7 +1,46 @@
 {
   "data": [{
     "type": "articles",
-    "id": "5",
+    "id": "1",
+    "attributes": {
+      "title": "Urlaubsfeeling auf dem Balkon",
+      "description": "Dieses Jahr ist alles anderes und unserer Urlaubspläne werden durchkreuzt. Doch ist das Zuhause bleiben wirklich so tragisch? Nun wird eben der Balkon, die Terrasse oder der Garten zum neuen Urlaubsziel!",
+      "url": "https://www.garten-fraeulein.de/blumentopf-diy/",
+      "image": "https://www.garten-fraeulein.de/wp-content/uploads/2017/05/frazoesische-kraeuter.jpg",
+      "label": "Staycation",
+      "source": "garten-fraeulein.de",
+      "source_logo": "https://www.garten-fraeulein.de/wp-content/uploads/2016/02/cropped-logo_gartenfraeulein_schwarz_fett-270x270.jpg",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "2",
+    "attributes": {
+      "title": "Biologischer Pflanzenschutz: 10 einfache Tipps mit großer Wirkung",
+      "description": "Um Schädlinge und Krankheiten in Schach zu halten, brauchen Sie keine Chemie. Auch mit biologischem Pflanzenschutz lassen sich die meisten Probleme im Garten lösen.",
+      "url": "https://www.mein-schoener-garten.de/gartenpraxis/pflanzenschutz/biologischer-pflanzenschutz-38445",
+      "image": "https://www.mein-schoener-garten.de/sites/default/files/styles/inline_scaled_l/public/gesteinsmehl-pflanzenschutz-12195846-dam-strauss.jpg?itok=C3I79uE0",
+      "label": "Bio Pflanzenschutz",
+      "source": "mein-schoener-garten.de",
+      "source_logo": "https://www.mein-schoener-garten.de/themes/custom/infinite/msg_infinite/apple-touch/apple-touch-icon-180x180.png",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "3",
+    "attributes": {
+      "title": "Im Sommer gesät, im Winter geerntet | Wintergemüse vorziehen",
+      "description": "Endet bei euch die Saison im Gemüsegarten im Herbst oder baut ihr auch Wintergemüse an?",
+      "url": "https://grüneliebe.de/im-sommer-gesaet-im-winter-geerntet-wintergemuese/",
+      "image": "https://xn--grneliebe-r9a.de/wp-content/uploads/2020/07/Wintergem%C3%BCse-im-Sommer-vorziehen-2048x1374.jpg",
+      "label": "Winterernte",
+      "source": "grüneliebe.de",
+      "source_logo": "https://xn--grneliebe-r9a.de/wp-content/uploads/2019/05/Gr%C3%BCneliebe_Banner_800x250_neu.png",
+      "content_type": "article"
+   }
+  }, {
+    "type": "articles",
+    "id": "4",
     "attributes": {
       "title": "Johannisbeer-Tarte",
       "description": "Die Johannisbeeren sind reif. Dieses Mal war ich schneller als die Vögel, und sie sind auch tatsächlich läusefrei. Also ab damit in die Küche. Ich kann mir zu einem herrlich sonnigen Sommerstart nichts Leckereres vorstellen als eine frische, süß-saure Johannisbeer-Tarte.",
@@ -14,7 +53,7 @@
     }
   }, {
     "type": "articles",
-    "id": "6",
+    "id": "5",
     "attributes": {
       "title": "Johannisbeer-Baiser-Kuchen",
       "description": "Wenn sich frische Johannisbeeren und lockeres Baiser auf einem Mürbeteigboden vereinen, kann keiner widerstehen. Frisch gekühlt ist der Kuchen ein wahrer Genuss!",
@@ -27,7 +66,7 @@
     }
   }, {
     "type": "articles",
-    "id": "7",
+    "id": "6",
     "attributes": {
       "title": "Aussaat ab Juli - was jetzt noch klappt im Garten mit Sascha und Marcel von SelfBio",
       "description": "Jetzt nachdem die ersten Ernten im Nutzgarten eigefahren werden, werden Flächen frei und es ist nun wichtig nicht die Aussaat der Folgekulturen zu verpassen. Wir sprechen über Kulturen die man jetzt noch sinnvollerweise aussäen bzw.pflanzen kann und was jetzt schon zu spät ist.",
@@ -40,7 +79,7 @@
     }
   }, {
     "type": "articles",
-    "id": "8",
+    "id": "7",
     "attributes": {
       "title": "Zum Abschied etwas auf die Ohren: Der SWR4 Gartentipp zur Heilpflanze des Jahres",
       "description": "Eine Pflanze mit Geschichte, Heilwirkung und dekorativem Wert für den Garten: 'Heilpflanze des Jahres 2020' ist die Zichorie. SWR4-Gartenexperte Volker Kugel stellt sie uns vor..",
