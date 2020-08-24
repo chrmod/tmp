@@ -61,7 +61,7 @@
       "image": "https://detektor.fm/wp-content/uploads/2020/07/ho-nasa-afp-72dpi-1280x550.jpg",
       "label": [""],
       "source": "detektor.fm",
-      "source_logo": "",
+      "source_logo": "https://detektor.fm/apple-touch-icon.png",
       "content_type": "audio"
     }
   }]
