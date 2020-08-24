@@ -47,7 +47,7 @@
       "url": "https://www.udiscovermusic.com/classical-news/ludovico-einaudi-undiscovered/",
       "url_video": "https://www.youtube.com/watch?v=cs86AmF0Z38",
       "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/08/LudovicoEinaudi_credit_DeccaRecords_CesareCicardini.jpg",
-      "label": "",
+      "label": [""],
       "source": "udiscovermusic.com",
       "source_logo": "https://www.udiscovermusic.com/wp-content/uploads/2018/01/uDiscover-top-site-250-logo.png",
       "content_type": "article"
@@ -60,7 +60,7 @@
       "description": "Die Mailänder Scala war das erste prominente Opernhaus, das am 23. Februar mitten in einer „Troubadour“-Vorstellung vom Corona-Virus ausgebremst wurde. Inzwischen wird dort zwar wieder hinter den Kulissen gearbeitet, und es gab Kammerkonzert. Aber richtig anfangen will man erst ab September unter dem neuen, von der Wiener Staatsoper in die Lombardei gewechseltem Intendanten Dominique Meyer. Jetzt wurde dessen Spielplan veröffentlicht – adaptiert und zunächst nur für den Herbst.",
       "url": "https://www.welt.de/kultur/klassik/plus213710076/Klassik-trotz-Corona-Die-amputierte-Oper.html",
       "image": "https://img.welt.de/img/kultur/klassik/mobile213710074/1111620957-ci23x11-w1136/urn-newsml-dpa-com-20090101-200401-99-548947-large-4-3-jpg.jpg",
-      "label": "",
+      "label": [""],
       "source": "welt.de",
       "source_logo": "",
       "content_type": "article"
