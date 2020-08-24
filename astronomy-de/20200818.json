@@ -7,7 +7,7 @@
       "description": "Bereits am 16.08.2020 ist der Asteroid 2020 QG in nur 2900 km Abstand an der Erde vorbeigeflogen. Der Asteroid hatte einen Durchmesser von ca. 6 Metern. Aber auch Asteroiden mit 100 Metern Durchmesser wurden schon übersehen.",
       "url": "https://www.youtube.com/watch?v=LIz5Wj4uQyw&feature=youtu.be",
       "image": "",
-      "label": "",
+      "label": ["Asteroiden"],
       "source": "youtube.com",
       "source_logo": "https://yt3.ggpht.com/a/AATXAJzpSTcsxlpgd-e9vqx5dQE0ameHXSFoe6ygFmEV=s176-c-k-c0xffffffff-no-rj-mo",
       "content_type": "video"
@@ -20,7 +20,7 @@
       "description": "Ein kaputtes Stahlseil hat das Arecibo-Observatorium in Puerto Rico beschädigt: In der Reflektorschüssel des Radioteleskops ist nun ein etwa dreißig Meter langer Riss. Auch die Kuppel soll betroffen sein.",
       "url": "https://www.spiegel.de/wissenschaft/weltall/arecibo-observatorium-kaputtes-stahlseil-reisst-loch-in-radioteleskop-in-puerto-rico-a-10c3efcc-7e31-45ac-b8e2-c0d762353b96",
       "image": "https://cdn.prod.www.spiegel.de/images/78920e97-7c43-4b2c-a798-8509c26e93c2_w948_r1.77_fpx33.75_fpy45.jpg",
-      "label": "",
+      "label": [""],
       "source": "spiegel.de",
       "source_logo": "https://cdn.prod.www.spiegel.de/public/spon/images/icons/favicon.ico",
       "content_type": "article"
@@ -33,7 +33,7 @@
       "description": "Tiefseeastronomie klingt nach Quatsch. Ist es aber nicht. Man kann das Universum tatsächlich vom Grund des Ozeans aus erforschen. Wie das geht und was man da lernen kann erfahrt ihr in der neuen Folge des Sternengeschichten-Podcast",
       "url": "https://www.spektrum.de/podcast/tiefseeastronomie/1748508",
       "image": "https://www.spektrum.de/fm/912/thumbnails/AdobeStock_109664876_kichigin19.jpeg.3124028.jpeg",
-      "label": "",
+      "label": [""],
       "source": "spektrum.de",
       "source_logo": "https://www.spektrum.de/js_css/assets/img/svg/sde.svg",
       "content_type": "audio"
@@ -46,7 +46,7 @@
       "description": "Der Mars ist von absolut massiven Lavaröhren durchzogen, deren Decken so hoch sind wie das Empire State Building, wie neue Untersuchungen zeigen. Und der Mond beherbergt noch gigantischere Röhren mit Höhen, die den Burj Khalifa in Dubai, das höchste Gebäude der Welt, in den Schatten stellen, und 'Oberlichter' so groß wie Fußballfelder.",
       "url": "https://www.space.com/lava-tubes-mars-and-moon-habitable.html",
       "image": "https://cdn.mos.cms.futurecdn.net/VesQDfw8pya3anEJjLGX8g-1024-80.jpg.webp",
-      "label": "Übersetzt mit DeepL",
+      "label": ["Übersetzt mit DeepL"],
       "source": "space.com",
       "source_logo": "https://vanilla.futurecdn.net/space/200137/favicon.ico",
       "content_type": "article"
@@ -59,7 +59,7 @@
       "description": " Der Salda-See in der Türkei hat die gleichen Eigenschaften wie ein Krater auf dem Mars. Der Vergleich der Gesteine könnte beweisen, dass es einst Leben auf dem Roten Planeten gab.",
       "url": "https://www.spiegel.de/wissenschaft/weltall/nasa-mission-ausgetrockneter-see-auf-dem-mars-hat-einen-irdischen-zwilling-in-der-tuerkei-a-707f8dc0-3fc2-4886-9657-7f9dbfe11637",
       "image": "https://cdn.prod.www.spiegel.de/images/3bbc993b-6378-4260-b956-0607a38a78c5_w948_r1.77_fpx52_fpy45.jpg",
-      "label": "Satellitenbild der Woche",
+      "label": ["Satellitenbild der Woche"],
       "source": "spiegel.de",
       "source_logo": "https://cdn.prod.www.spiegel.de/public/spon/images/icons/favicon.ico",
       "content_type": "article"
