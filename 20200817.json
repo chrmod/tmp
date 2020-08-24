@@ -1,0 +1,68 @@
+{
+  "data": [{
+    "type": "articles",
+    "id": "1",
+    "attributes": {
+      "title": "Beteigeuze: Staub verursachte die Verdunklung",
+      "description": "Der helle Stern Beteigeuze gibt Astronomen schon seit Monaten Rätsel auf. Denn Anfang des Jahres verdunkelte sich dieser Rote Überriese plötzlich drastisch – er verlor zwei Drittel seiner Leuchtkraft. Trotz intensiver Beobachtung blieb die Ursache zunächst unklar. Jetzt liefert das Hubble-Weltraumteleskop eine plausible Erklärung. Die Daten seines UV-Spektrografen zeigen, dass Beteigeuze Ende 2019 einen ungewöhnlich starken Plasmaausbruch durchlebte. Nach Ansicht der Astronomen könnte das ins All hinausgeschleuderte Material durch Abkühlung und Kondensation zu einer Staubwolke geworden sein, die den Stern von uns aus gesehen verdeckte. Das würde die Abdunklung erklären.",
+      "url": "https://www.wissenschaft.de/astronomie-physik/staub-verursachte-die-verdunklung-von-beteigeuze/",
+      "image": "https://www.wissenschaft.de/wp-content/uploads/2/0/20-08-14-beteigeuze.jpg",
+      "label": "Sterne",
+      "source": "wissenschaft.de",
+      "source_logo": "https://www.wissenschaft.de/wp-content/themes/konradin-wissenschaft/assets/images/logo_wissenschaft.png",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "2",
+    "attributes": {
+      "title": "Dunkle Materie: Verblüffende Entdeckung könnte unser Weltbild ändern",
+      "description": "Ein internationales Forscherteam hat 31 Millionen Galaxien beobachtet. Ihre Auswertungen könnten unser gesamtes Weltbild auf den Kopf stellen.",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/dunkle-materie-forscher-machen-spektakulaere-entdeckung/",
+      "image": "https://www.ingenieur.de/wp-content/uploads/2020/08/Dunkle-Materie-Weltall-e1596712075847.jpg",
+      "label": "Dunkle Materie",
+      "source": "ingenieur.de",
+      "source_logo": "https://www.ingenieur.de/wp-content/themes/ingenieur-theme/images/logo.svg",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "3",
+    "attributes": {
+      "title": "Wunderschöner Weltraum-Schmetterling flattert vor Teleskop",
+      "description": "Astronomen, die das Very Large Telescope der ESO benutzen, haben einen Weltraumschmetterling abgebildet, einen planetarischen Nebel, der als NGC 2899 bekannt ist. Dieses Video bietet atemberaubende Ansichten dieses Objekts und der Wissenschaft dahinter.",
+      "url": "https://www.youtube.com/watch?v=1-m6C4GN2S8",
+      "image": "https://i.ytimg.com/vi/1-m6C4GN2S8/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCjf1PLIs48HehRz1OCZdR98Z2w4w",
+      "label": "ESO, European Southern Observatory",
+      "source": "https://www.youtube.com/channel/UCIhYoC2VIAJqCkoIWNHBQ3Q",
+      "source_logo": "https://yt3.ggpht.com/a/AATXAJxF0zeh3XtNPdadQxXM2DR4bPQEc-w9UnO47lg4Mw=s288-c-k-c0xffffffff-no-rj-mo",
+      "content_type": "video"
+   }
+  }, {
+    "type": "articles",
+    "id": "4",
+    "attributes": {
+      "title": "Schnellster Stern der Milchstraße entdeckt",
+      "description": "Stern S4711 rast mit 24.000 Kilometer in der Sekunde um das zentrale Schwarze Loch",
+      "url": "https://www.scinexx.de/news/kosmos/schnellster-stern-der-milchstrasse-entdeckt-2/",
+      "image": "https://www.scinexx.de/wp-content/uploads/s/4/s4711g.jpg",
+      "label": "",
+      "source": "scinexx.de",
+      "source_logo": "https://www.scinexx.de/wp-content/themes/konradin-wissenschaft/assets/images/logo_snx.png",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "5",
+    "attributes": {
+      "title": "Brauchen wir ein durchsetzbares Weltraumrecht?",
+      "description": "Der Weltraumvertrag ist in Zeiten des Kalten Krieges entstanden. Der ist inzwischen vorbei und die Technik sehr viel weiter. So weit, dass jeder mitmischen möchte. Doch wer macht die Regeln für ein Gebiet, das niemandem gehört? Johannes Schmidt hat das Thema im Podcast dieskutiert",
+      "url": "https://detektor.fm/wissen/zurueck-zum-thema-weltraumrecht",
+      "image": "https://detektor.fm/wp-content/uploads/2020/07/ho-nasa-afp-72dpi-1280x550.jpg",
+      "label": "",
+      "source": "detektor.fm",
+      "source_logo": "",
+      "content_type": "audio"
+    }
+  }]
+}
