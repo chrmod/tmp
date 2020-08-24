@@ -1,0 +1,68 @@
+{
+  "data": [{
+    "type": "articles",
+    "id": "1",
+    "attributes": {
+      "title": "Hornissen mit sanften Mitteln vertreiben",
+      "description": "Wie kann man Hornissen sanft vertreiben? Und was kann man gegen ein Nest in unmittelbarer Hausnähe tun? Hier finden Sie Tipps rund um den Umgang mit Hornissen.",
+      "url": "https://www.mein-schoener-garten.de/lifestyle/natur-tiere/hornissen-vertreiben-39204",
+      "image": "https://www.mein-schoener-garten.de/sites/default/files/styles/inline_scaled_l/public/ihornisse-vespa-crabro-1068708968-istock.jpg?itok=NSYyefTM",
+      "label": [""],
+      "source": "mein-schoener-garten.de",
+      "source_logo": "https://www.mein-schoener-garten.de/sites/default/files/branding/icon_small/logo.green_.svg",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "2",
+    "attributes": {
+      "title": "Rasenschnitt als Dünger - Tipps von Sabrina",
+      "description": "Sabrina setzt den Rasenschnitt unter anderem gerne bei Tomaten und Gurken ein, denn diese Pflanzen haben einen hohen Nährstoffbedarf. Aber auch Beerensträucher profitieren vom Rasenschnitt. Zusätzlich sorgt der Rasenschnitt als Mulch dafür, dass der Boden bedeckt ist und nicht so viel Wasser verdunstet. Rasenschnitt als Mulch beginnt übrigens nicht zu stinken.",
+      "url": "https://www.br.de/br-fernsehen/sendungen/querbeet/querbeet-rasenschnitt-duenger-100.html",
+      "image": "https://www.br.de/querbeet-rasenschnitt-duenger-104~_v-img__16__9__l_-1dc0e8f74459dd04c91a0d45af4972b9069f1135.jpg?version=35f80",
+      "label": [""],
+      "source": "br.de",
+      "source_logo": "https://www.br.de/favicon.ico",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "3",
+    "attributes": {
+      "title": "Mit diesen Gemüsen können Sie das Hochbeet im August bepflanzen",
+      "description": "Juli und August sind die Haupterntemonate im Garten: Während sich die Erntekörbe füllen, lichten sich die Reihen im Hochbeet. Glücklicherweise gibt es dennoch eine ganze Reihe von Gemüsen, die für die Herbsternte auch noch gesät oder gepflanzt werden können.",
+      "url": "https://www.gartenjournal.net/hochbeet-bepflanzen-august",
+      "image": "https://www.gartenjournal.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/hochbeet-bepflanzen-august-860x573.jpg.webp",
+      "label": [""],
+      "source": "gartenjournal.net",
+      "source_logo": "https://www.gartenjournal.net/wp-content/themes/gartenjournal-2020-v5/img/favico/apple-icon-57x57.png",
+      "content_type": "article"
+   }
+  }, {
+    "type": "articles",
+    "id": "4",
+    "attributes": {
+      "title": "Igel verhungern und verdursten wegen trockenem Sommer",
+      "description": "Die Trockenheit und hohen Temperaturen schwächen viele Igel. Sie finden nur sehr wenig Nahrung und schaffen es daher kaum, ihren Nachwuchs durchzubringen. Können Gartenbesitzer helfen?",
+      "url": "https://www.t-online.de/heim-garten/garten/id_88435322/duerre-in-deutschland-zahlreiche-igel-werden-den-sommer-nicht-ueberleben.html",
+      "image": "https://bilder.t-online.de/b/88/43/53/26/id_88435326/610/tid_da/igel-damit-der-nuetzliche-igel-auch-im-naechsten-jahr-noch-schaedlinge-an-pflanzen-bekaempft-sollten-gartenbesitzer-das-tier-jetzt-zusaetzlich-fuettern-.jpg",
+      "label": [""],
+      "source": "t-online.de",
+      "source_logo": "https://www.t-online.de/favicon-32x32.png",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "5",
+    "attributes": {
+      "title": "Hortensien – Tipps für eine üppige Blütenpracht",
+      "description": "Hortensien gehören mit ihren imposanten Blüten zu den absoluten Lieblingen in Deutschlands Gärten. In der aktuellen Folge von Grünstadtmenschen dreht sich daher alles um die hübsche Pflanze. Als Gast hat Nicole Edler wieder Folkert Siemens eingeladen.",
+      "url": "https://open.spotify.com/episode/4QB3viE10rQMCDt4Vdncso?si=8ol79STZRROkB843rfQYUQ",
+      "image": "https://www.mein-schoener-garten.de/sites/default/files/styles/landscape_l_full_width/public/facebook-podcast-1.jpg?h=2240b8e9&itok=9QzELSta",
+      "label": [""],
+      "source": "mein-schoener-garten.de",
+      "source_logo": "https://www.mein-schoener-garten.de/sites/default/files/branding/icon_small/logo.green_.svg",
+      "content_type": "article"
+    }
+  }]
+}
