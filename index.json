@@ -13,7 +13,7 @@
       "gardening/editions/20200707.json"
     ]
   }, {
-    "name": "Astronony",
+    "name": "Astronomy",
     "langauge": "en",
     "editions": [
       "gardening/editions/20200707.json"
@@ -22,7 +22,8 @@
     "name": "Klassische Musik",
     "langauge": "de",
     "editions": [
-      "classical_music_de/20200718.json"
+      "classical_music_de/20200718.json",
+      "classical_music_de/20200719.json"
     ]
   }]
 }
