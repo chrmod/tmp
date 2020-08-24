@@ -3,7 +3,8 @@
     "name": "Astronomie",
     "language": "de",
     "editions": [
-      "astronomy-de/20200817.json"
+      "astronomy-de/20200817.json",
+      "astronomy-de/20200818.json"
     ]
   }, {
     "name": "Gärtnern",
