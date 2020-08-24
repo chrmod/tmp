@@ -7,9 +7,9 @@
       "description": "Wegen Corona mussten die Veranstalter viele Konzerte und Auftritte streichen. Doch das, was bei den Salzburger Festspielen stattfinden konnte, Auftritte von Sonya Yoncheva, Patricia Kopatchinskaja und Riccardo Muti, wusste zu begeistern.",
       "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/die-salzburger-festspiele-begeistern-ein-maskiertes-publikum-16907646.html",
       "image": "https://media1.faz.net/ppmedia/3669810807/1.6907745/format_top1_breit/dirigent-riccardo-munti-wirkt.jpg",
-      "label": "Salzburger Festspiele",
+      "label": ["Salzburger Festspiele"],
       "source": "faz.net",
-      "source_logo": "https://www.faz.net/favicon.ico",
+      "source_logo": "view-source:https://www.faz.net/favicon.ico",
       "content_type": "article"
     }
   }, {
@@ -20,7 +20,7 @@
       "description": "Der österreichische Dirigent Franz Welser-Möst ist bei den Salzburger Festspielen mit der Festspielnadel ausgezeichnet worden. Die Ehrung wurde ihm am Sonntag zu seinem 60. Geburtstag direkt nach der Opernvorstellung „Elektra“ von der Festspielpräsidentin Helga Rabl-Stadler überreicht. „Welser-Möst schenkte den Salzburger Festspielen durch sein tiefes Wissen um die Musik von Richard Strauss und die perfekte Symbiose mit den Wiener Philharmonikern wahre Sternstunden“, so Intendant Markus Hinterhäuser. Mit der Salzburger Festspielnadel wurden bisher Künstler wie Christa Ludwig, Jürgen Flimm, Riccardo Muti, Anne-Sophie Mutter, Mariss Jansons und Daniel Barenboim geehrt.",
       "url": "https://magazin.klassik.com/news/teaser.cfm?ID=16184&nachricht=Salzburger%20Festspielnadel%20f%FCr%20Dirigent%20Franz%20Welser%2DM%F6st",
       "image": "https://static.klassik.com/news/16184_5832.jpg",
-      "label": "Salzburger Festspiele",
+      "label": ["Salzburger Festspiele"],
       "source": "klassik.com",
       "source_logo": "https://static.klassik.com/pix/logo_450x100.png",
       "content_type": "article"
@@ -33,7 +33,7 @@
       "description": "Riccardo Muti und die Wiener Philharmoniker mit einer traditionellen und ausdrucksstarken Lesart von Beethovens Neunter Symphonie bei den Salzburger Festspielen.",
       "url": "https://www.klassikinfo.de/muti-dirigiert-beethovens-neunte-bei-den-salzburger-festspielen/",
       "image": "https://www.klassikinfo.de/wp-content/uploads/2020/08/wiener-philharmoniker-muti-2020-c-sf-marco-borrelli-05.jpg",
-      "label": "Salzburger Festspiele",
+      "label": ["Salzburger Festspiele"],
       "source": "klassikinfo.de",
       "source_logo": "https://www.klassikinfo.de/wp-content/uploads/2017/05/klassikinfo-logo-340.png",
       "content_type": "article"
