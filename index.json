@@ -1,0 +1,21 @@
+{
+  "topics": [{
+    "name": "Astronomie",
+    "language": "de",
+    "editions": [
+      "astronomy-de/20200817.json"
+    ]
+  }, {
+    "name": "Gärtnern",
+    "langauge": "de",
+    "editions": [
+      "gardening/editions/20200707.json"
+    ]
+  }, {
+    "name": "Astronony",
+    "langauge": "en",
+    "editions": [
+      "gardening/editions/20200707.json"
+    ]
+  }
+}
