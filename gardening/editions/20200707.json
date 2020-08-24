@@ -7,7 +7,7 @@
       "description": "Dieses Jahr ist alles anderes und unserer Urlaubspläne werden durchkreuzt. Doch ist das Zuhause bleiben wirklich so tragisch? Nun wird eben der Balkon, die Terrasse oder der Garten zum neuen Urlaubsziel!",
       "url": "https://www.garten-fraeulein.de/blumentopf-diy/",
       "image": "https://www.garten-fraeulein.de/wp-content/uploads/2017/05/frazoesische-kraeuter.jpg",
-      "label": "Staycation",
+      "label": ["Staycation"],
       "source": "garten-fraeulein.de",
       "source_logo": "https://www.garten-fraeulein.de/wp-content/uploads/2016/02/cropped-logo_gartenfraeulein_schwarz_fett-270x270.jpg",
       "content_type": "article"
@@ -20,7 +20,7 @@
       "description": "Um Schädlinge und Krankheiten in Schach zu halten, brauchen Sie keine Chemie. Auch mit biologischem Pflanzenschutz lassen sich die meisten Probleme im Garten lösen.",
       "url": "https://www.mein-schoener-garten.de/gartenpraxis/pflanzenschutz/biologischer-pflanzenschutz-38445",
       "image": "https://www.mein-schoener-garten.de/sites/default/files/styles/inline_scaled_l/public/gesteinsmehl-pflanzenschutz-12195846-dam-strauss.jpg?itok=C3I79uE0",
-      "label": "Bio Pflanzenschutz",
+      "label": ["Bio Pflanzenschutz"],
       "source": "mein-schoener-garten.de",
       "source_logo": "https://www.mein-schoener-garten.de/themes/custom/infinite/msg_infinite/apple-touch/apple-touch-icon-180x180.png",
       "content_type": "article"
@@ -33,7 +33,7 @@
       "description": "Endet bei euch die Saison im Gemüsegarten im Herbst oder baut ihr auch Wintergemüse an?",
       "url": "https://grüneliebe.de/im-sommer-gesaet-im-winter-geerntet-wintergemuese/",
       "image": "https://xn--grneliebe-r9a.de/wp-content/uploads/2020/07/Wintergem%C3%BCse-im-Sommer-vorziehen-2048x1374.jpg",
-      "label": "Winterernte",
+      "label": ["Winterernte"],
       "source": "grüneliebe.de",
       "source_logo": "https://xn--grneliebe-r9a.de/wp-content/uploads/2019/05/Gr%C3%BCneliebe_Banner_800x250_neu.png",
       "content_type": "article"
@@ -46,7 +46,7 @@
       "description": "Die Johannisbeeren sind reif. Dieses Mal war ich schneller als die Vögel, und sie sind auch tatsächlich läusefrei. Also ab damit in die Küche. Ich kann mir zu einem herrlich sonnigen Sommerstart nichts Leckereres vorstellen als eine frische, süß-saure Johannisbeer-Tarte.",
       "url": "https://beetschwestern.net/2020/06/28/johannisbeer-tarte/",
       "image": "https://beetschwestern.files.wordpress.com/2020/06/wp-1593346526859.jpg?w=663&zoom=2",
-      "label": "Zum Nachbacken",
+      "label": ["Rezepte"],
       "source": "beetschwestern.net",
       "source_logo": "https://beetschwestern.files.wordpress.com/2018/05/cropped-logo.jpg?w=180",
       "content_type": "article"
@@ -59,7 +59,7 @@
       "description": "Wenn sich frische Johannisbeeren und lockeres Baiser auf einem Mürbeteigboden vereinen, kann keiner widerstehen. Frisch gekühlt ist der Kuchen ein wahrer Genuss!",
       "url": "https://www.mein-schoener-garten.de/lifestyle/rezepte/johannisbeer-baiser-kuchen-41743",
       "image": "https://www.mein-schoener-garten.de/sites/default/files/styles/inline_scaled_l/public/meringue-kuchen-johannisbeeren-12552795-dam-stockfood.jpg?itok=wly0bZMQ",
-      "label": "Zum Nachbacken - Posh",
+      "label": ["Rezepte"],
       "source": "mein-schoener-garten.de",
       "source_logo": "https://www.mein-schoener-garten.de/themes/custom/infinite/msg_infinite/apple-touch/apple-touch-icon-180x180.png",
       "content_type": "article"
@@ -68,13 +68,13 @@
     "type": "articles",
     "id": "6",
     "attributes": {
-      "title": "Aussaat ab Juli - was jetzt noch klappt im Garten mit Sascha und Marcel von SelfBio",
-      "description": "Jetzt nachdem die ersten Ernten im Nutzgarten eigefahren werden, werden Flächen frei und es ist nun wichtig nicht die Aussaat der Folgekulturen zu verpassen. Wir sprechen über Kulturen die man jetzt noch sinnvollerweise aussäen bzw.pflanzen kann und was jetzt schon zu spät ist.",
+      "title": "",
+      "description": "",
       "url": "https://www.youtube.com/watch?v=j9sLljbl1Gc",
       "image": "",
-      "label": "",
-      "source": "youtube.com",
-      "source_logo": "https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png",
+      "label": [""],
+      "source": "",
+      "source_logo": "",
       "content_type": "video"
     }
   }, {
@@ -85,7 +85,7 @@
       "description": "Eine Pflanze mit Geschichte, Heilwirkung und dekorativem Wert für den Garten: 'Heilpflanze des Jahres 2020' ist die Zichorie. SWR4-Gartenexperte Volker Kugel stellt sie uns vor..",
       "url": "https://podcasts.apple.com/de/podcast/swr4-gartentipp/id1328384713",
       "image": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/c7/79/48/c779488c-a1db-8fae-cef8-20befa2594ba/mza_54950250456734197.jpg/1200x630wp.png",
-      "label": "",
+      "label": [""],
       "source": "podcasts.apple.com",
       "source_logo": "https://podcasts.apple.com/assets/images/banner-artwork/iTunes_icon@2x-2bebb71080717c1e66aa78730e96c9cd.png",
       "content_type": "audio"
