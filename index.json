@@ -18,5 +18,11 @@
     "editions": [
       "gardening/editions/20200707.json"
     ]
+  }, {
+    "name": "Klassische Musik",
+    "langauge": "de",
+    "editions": [
+      "classical_music_de/editions/20200718.json"
+    ]
   }]
 }
