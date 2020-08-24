@@ -10,7 +10,9 @@
     "name": "Gärtnern",
     "langauge": "de",
     "editions": [
-      "gardening/editions/20200707.json"
+      "gardening/editions/20200707.json",
+      "gardening/editions/20200717.json",
+      "gardening/editions/20200720.json"     
     ]
   }, {
     "name": "Astronomy",
