@@ -1,0 +1,69 @@
+{
+  "data": [{
+    "type": "articles",
+    "id": "1",
+    "attributes": {
+      "title": "Salzburger Festspiele: Das Schönste, was derzeit zu erleben ist",
+      "description": "Wegen Corona mussten die Veranstalter viele Konzerte und Auftritte streichen. Doch das, was bei den Salzburger Festspielen stattfinden konnte, Auftritte von Sonya Yoncheva, Patricia Kopatchinskaja und Riccardo Muti, wusste zu begeistern.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/die-salzburger-festspiele-begeistern-ein-maskiertes-publikum-16907646.html",
+      "image": "https://media1.faz.net/ppmedia/3669810807/1.6907745/format_top1_breit/dirigent-riccardo-munti-wirkt.jpg",
+      "label": "Salzburger Festspiele",
+      "source": "faz.net",
+      "source_logo": "view-source:https://www.faz.net/favicon.ico",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "2",
+    "attributes": {
+      "title": "Salzburger Festspielnadel für Dirigent Franz Welser-Möst",
+      "description": "Der österreichische Dirigent Franz Welser-Möst ist bei den Salzburger Festspielen mit der Festspielnadel ausgezeichnet worden. Die Ehrung wurde ihm am Sonntag zu seinem 60. Geburtstag direkt nach der Opernvorstellung „Elektra“ von der Festspielpräsidentin Helga Rabl-Stadler überreicht. „Welser-Möst schenkte den Salzburger Festspielen durch sein tiefes Wissen um die Musik von Richard Strauss und die perfekte Symbiose mit den Wiener Philharmonikern wahre Sternstunden“, so Intendant Markus Hinterhäuser. Mit der Salzburger Festspielnadel wurden bisher Künstler wie Christa Ludwig, Jürgen Flimm, Riccardo Muti, Anne-Sophie Mutter, Mariss Jansons und Daniel Barenboim geehrt.",
+      "url": "https://magazin.klassik.com/news/teaser.cfm?ID=16184&nachricht=Salzburger%20Festspielnadel%20f%FCr%20Dirigent%20Franz%20Welser%2DM%F6st",
+      "image": "https://static.klassik.com/news/16184_5832.jpg",
+      "label": "Salzburger Festspiele",
+      "source": "klassik.com",
+      "source_logo": "https://static.klassik.com/pix/logo_450x100.png",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "3",
+    "attributes": {
+      "title": "Muti dirigiert Beethovens Neunte bei den Salzburger Festspielen ",
+      "description": "Riccardo Muti und die Wiener Philharmoniker mit einer traditionellen und ausdrucksstarken Lesart von Beethovens Neunter Symphonie bei den Salzburger Festspielen.",
+      "url": "https://www.klassikinfo.de/muti-dirigiert-beethovens-neunte-bei-den-salzburger-festspielen/",
+      "image": "https://www.klassikinfo.de/wp-content/uploads/2020/08/wiener-philharmoniker-muti-2020-c-sf-marco-borrelli-05.jpg",
+      "label": "Salzburger Festspiele",
+      "source": "klassikinfo.de",
+      "source_logo": "https://www.klassikinfo.de/wp-content/uploads/2017/05/klassikinfo-logo-340.png",
+      "content_type": "article"
+   }
+  }, {
+    "type": "articles",
+    "id": "4",
+    "attributes": {
+      "title": "Ludovico Einaudi kündigt neue Sammlung an: 'Einaudi Undiscovered'.",
+      "description": "Ludovico Einaudi will release ‘Einaudi Undiscovered’, featuring hidden gems, highlights and previously unreleased tracks, in September 2020.",
+      "url": "https://www.udiscovermusic.com/classical-news/ludovico-einaudi-undiscovered/",
+      "url_video": "https://www.youtube.com/watch?v=cs86AmF0Z38",
+      "image": "https://www.udiscovermusic.com/wp-content/uploads/2020/08/LudovicoEinaudi_credit_DeccaRecords_CesareCicardini.jpg",
+      "label": "",
+      "source": "udiscovermusic.com",
+      "source_logo": "https://www.udiscovermusic.com/wp-content/uploads/2018/01/uDiscover-top-site-250-logo.png",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "5",
+    "attributes": {
+      "title": "Die amputierte Oper",
+      "description": "Die Mailänder Scala war das erste prominente Opernhaus, das am 23. Februar mitten in einer „Troubadour“-Vorstellung vom Corona-Virus ausgebremst wurde. Inzwischen wird dort zwar wieder hinter den Kulissen gearbeitet, und es gab Kammerkonzert. Aber richtig anfangen will man erst ab September unter dem neuen, von der Wiener Staatsoper in die Lombardei gewechseltem Intendanten Dominique Meyer. Jetzt wurde dessen Spielplan veröffentlicht – adaptiert und zunächst nur für den Herbst.",
+      "url": "https://www.welt.de/kultur/klassik/plus213710076/Klassik-trotz-Corona-Die-amputierte-Oper.html",
+      "image": "https://img.welt.de/img/kultur/klassik/mobile213710074/1111620957-ci23x11-w1136/urn-newsml-dpa-com-20090101-200401-99-548947-large-4-3-jpg.jpg",
+      "label": "",
+      "source": "welt.de",
+      "source_logo": "",
+      "content_type": "article"
+    }
+  }]
+}
