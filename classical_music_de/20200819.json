@@ -1,0 +1,55 @@
+{
+  "data": [{
+    "type": "articles",
+    "id": "1",
+    "attributes": {
+      "title": "Filmkomponist John Williams: „Hitchcock wollte Popmusik als Soundtrack“",
+      "description": " John Williams geht so gut wie nie ins Kino. Ein Gespräch mit dem amerikanischen Filmkomponisten über „Star Wars“, Steven Spielberg, der im „Weißen Hai“ selbst Klarinette spielte – und die offizielle Hymne des Bösen. ",
+      "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/amerikanischer-filmkomponist-john-williams-im-gespraech-16904749.html",
+      "image": "https://media1.faz.net/ppmedia/aktuell/294585371/1.6907329/format_top1_breit/wurde-nie-gefeuert-john.jpg",
+      "label": ["Interview"],
+      "source": "faz.net",
+      "source_logo": "view-source:https://www.faz.net/favicon.ico",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "2",
+    "attributes": {
+      "title": "Volle Konzertsäle trotz Corona möglich? Jeden Platz darf man besetzen, sagen Charité-Forscher",
+      "description": "Forscher der Berliner Charité haben sich für voll besetzte Säle bei Klassikkonzerten und Opernvorstellungen bei gleichzeitiger Maskenpflicht ausgesprochen. Wenn ein Mund-Nasen-Schutz von allen Besuchern korrekt getragen wird, 'ist eine Vollbesetzung der Sitzplätze möglich', heißt es in einer am Montag in Berlin veröffentlichten Stellungnahme. Der Charité-Vorstand distanzierte sich allerdings von diesem Vorschlag.",
+      "url": "https://www.br-klassik.de/aktuell/news-kritik/corona-charite-fuer-volle-konzertsaele-maskenpflicht-konzertbetrieb-studie-publikum-100.html",
+      "image": "https://www.br-klassik.de/aktuell/news-kritik/ard-musikwettbewerb-2018-erster-durchgang-gesang-114~_h-558_v-img__16__9__xl_w-994_-e1d284d92729d9396a907e303225e0f2d9fa53b4.jpg?version=aad4a",
+      "label": [""],
+      "source": "br-klassik.de",
+      "source_logo": "https://www.br-klassik.de/static/live/img/favicon.ico",
+      "content_type": "article"
+    }
+  }, {
+    "type": "articles",
+    "id": "3",
+    "attributes": {
+      "title": "Klassik im Stream: Virtueller Cello-Abend für 25 Dollar",
+      "description": "Streaming-Plattformen entwickeln Bezahlmodelle für klassische Konzerte. Und die sollen mehr bieten als die für die Corona-Krise typische Wohnzimmerästhetik.",
+      "url": "https://www.sueddeutsche.de/kultur/klassikkonzerte-streaming-corona-1.5003574",
+      "image": "https://www.sueddeutsche.de/image/sz.1.5003708/1408x792?v=1597846645&format=webp",
+      "label": ["Klassik Streaming"],
+      "source": "sueddeutsche.de",
+      "source_logo": "view-source:https://www.sueddeutsche.de/assets/img/favicon-16x16.png",
+      "content_type": "article"
+   }
+  }, {
+    "type": "articles",
+    "id": "4",
+    "attributes": {
+      "title": "",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=cNakEhGJbhI",
+      "image": "",
+      "label": [""],
+      "source": "",
+      "source_logo": "",
+      "content_type": "video"
+    }
+  }]
+}
