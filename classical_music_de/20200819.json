@@ -9,7 +9,7 @@
       "image": "https://media1.faz.net/ppmedia/aktuell/294585371/1.6907329/format_top1_breit/wurde-nie-gefeuert-john.jpg",
       "label": ["Interview"],
       "source": "faz.net",
-      "source_logo": "view-source:https://www.faz.net/favicon.ico",
+      "source_logo": "https://www.faz.net/favicon.ico",
       "content_type": "article"
     }
   }, {
@@ -46,7 +46,7 @@
       "description": "",
       "url": "https://www.youtube.com/watch?v=cNakEhGJbhI",
       "image": "",
-      "label": [""],
+      "label": [],
       "source": "",
       "source_logo": "",
       "content_type": "video"
